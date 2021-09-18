@@ -112,7 +112,7 @@ button {
 .hero_left_btn {
   /* width: 100%;
   height: 100%; */
-  /* padding: 1.5rem; */
+  padding: 1.5rem;
   background-color: var(--brand);
   color: var(--white);
   /* border: none;
