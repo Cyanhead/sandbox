@@ -81,7 +81,7 @@ export default function sandbox() {
             <div className={`${style.hero_left_btn_wrap}`}>
               {/* change to link tag */}
               {/* <button href='#'>Try Zuri.chat for free</button> */}
-              <a href='#'>
+              <a href='/'>
                 <button className={`${style.hero_left_btn}`}>
                   Try Zuri.chat for free
                 </button>
@@ -164,7 +164,7 @@ export default function sandbox() {
               A flexible Way to Educate, Collaborate and Team Up From Wherever
               You Are
             </p>
-            <a href='#'>
+            <a href='/'>
               <button className={`${style.sign_up_btn}`}>
                 Sign up now for Free!!!
               </button>
