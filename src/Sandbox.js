@@ -6,7 +6,7 @@ import logo2 from './assets/logo_i4g.png';
 import logo3 from './assets/logo_nucle.png';
 import logo4 from './assets/logo_camphouse.png';
 import logo5 from './assets/logo_zuri.png';
-// import ft_img1 from './assets/ft_img1.png';
+import ft_img1 from './assets/ft_img1.png';
 import ft_img2 from './assets/ft_img2.png';
 import ft_img3 from './assets/ft_img3.png';
 import ft_img4 from './assets/ft_img4.png';
@@ -111,7 +111,7 @@ export default function sandbox() {
       <div className={`${style.features_wrap}`}>
         <div className={`${style.features}`}>
           <FeatureRow
-            src={ft_img2}
+            src={ft_img1}
             // * put a sensible alt description
             alt='img'
             pContent1='Seamless collaboration'
